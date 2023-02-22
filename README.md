@@ -1,1 +1,1 @@
-# WDT
+# Web Development Technologies coursework
